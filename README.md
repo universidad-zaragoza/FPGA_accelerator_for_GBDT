@@ -1,6 +1,6 @@
 # FPGA_accelerator_for_GBDT
 
-This repository contains the GBDT models used, and the source codes of the accelerator developed and described in the paper "FPGA Accelerator for Gradient Boosting Decision Trees", available on: https://doi.org/10.3390/electronics10030314
+This repository contains the GBDT models and the source codes of the accelerator developed and described in the paper "FPGA Accelerator for Gradient Boosting Decision Trees", available on: https://doi.org/10.3390/electronics10030314
 
 *BibTex citation*
 
