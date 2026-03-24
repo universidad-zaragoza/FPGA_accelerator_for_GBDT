@@ -1,5 +1,7 @@
 # FILES DESCRIPTION
 
+Note that we continued improving the memory structure of the GBDT on the FPGA thoug the work "Optimising Gradient Boosting decision trees by adding uncertainty metrics" available in https://zaguan.unizar.es/record/149416. The code is forked from this repository and continued in https://github.com/pablobueno01/FPGA_accelerator_for_GBDT/tree/main/FPGA_accelerator_for_GBDT.
+
 ## IP_test.vhd, KSC_test.vhd, PU_test.vhd, SV_test.vhd
 
 These files are VHDL test files for the main entity of the VHDL accelerator in
