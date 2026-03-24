@@ -17,6 +17,8 @@ This repository contains the GBDT models and the source codes of the accelerator
         DOI            = {10.3390/electronics10030314}
     }
 
+We continued improving the memory structure of the GBDT on the FPGA thoug the work "Optimising Gradient Boosting decision trees by adding uncertainty metrics" available in https://zaguan.unizar.es/record/149416. The code is forked from this repository and continued in https://github.com/pablobueno01/FPGA_accelerator_for_GBDT/tree/main/FPGA_accelerator_for_GBDT.
+
 ## FPGA_VHDL_code_and_data
 
 This directory contains the VHDL codes of the accelerator itself ("src" directory) and some VHDL test files to perform the inference of the test pixels of every analyzed image ("sim" directory).
